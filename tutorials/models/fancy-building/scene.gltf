@@ -1403,14 +1403,6 @@
       "uri": "scene.bin"
     }
   ],
-  "images": [
-    {
-      "uri": "textures/SITE_GRASS_baseColor.jpeg"
-    },
-    {
-      "uri": "textures/MASONRY_STONE_TRAVERTINE_baseColor.png"
-    }
-  ],
   "materials": [
     {
       "doubleSided": true,
@@ -2183,16 +2175,6 @@
       "nodes": [
         0
       ]
-    }
-  ],
-  "textures": [
-    {
-      "sampler": 0,
-      "source": 0
-    },
-    {
-      "sampler": 0,
-      "source": 1
     }
   ]
 }
